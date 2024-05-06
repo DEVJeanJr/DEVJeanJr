@@ -16,8 +16,8 @@ My name is Jean, a boy in love with technology and in constant learning. Junior 
 
 
 ## 🌐 Networks.
-- [Instagram](https://instagram.com/jeanmendanhaa) 
-- [Twitter](https://twitter.com/mendanha_jean)
+- [Instagram](https://instagram.com/nmd.junior) 
+- [Twitter](https://twitter.com/jeanmendanhaa)
 - [LinkedIn](https://www.linkedin.com/in/)
 - [GitHub](https://github.com/DEVJeanJr/)
 
